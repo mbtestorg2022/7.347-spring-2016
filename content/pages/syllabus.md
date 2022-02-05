@@ -56,20 +56,201 @@ This course will be graded Pass / Fail. To pass this course, it is essential to 
 Calendar
 --------
 
-| WEEK # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 | Introduction of Instructor and Students and Course Overview | &nbsp; |
-| 2 | Antimicrobial Peptides in Innate Immune Defense and Their Production | &nbsp; |
-| 3 | Antimicrobial Peptides as Double Agents | &nbsp; |
-| 4 | Folding Matters for Antimicrobial Peptides | &nbsp; |
-| 5 | Techniques to Study Antimicrobial Peptides | &nbsp; |
-| 6 | Peptides in Biotic Interactions | &nbsp; |
-| 7 | Peptide Transporters in Various Organisms | &nbsp; |
-| 8 | Peptide Signals in the Brain | &nbsp; |
-| 9 | Molecules of Hunger and Love | Written Assignment due |
-| 10 | Epidermal Growth Factors (EGFs) as Signaling Peptides | &nbsp; |
-| 11 | Molecules in Action: Antimicrobial Peptides as Drugs | &nbsp; |
-| 12 | Field Trip to [Cubist Pharmaceuticals](https://en.wikipedia.org/wiki/Cubist_Pharmaceuticals), a subsidiary of [Merck Pharmaceuticals](http://www.merck.com/index.html) | Field trip to [Cubist Pharmaceuticals](https://en.wikipedia.org/wiki/Cubist_Pharmaceuticals), Lexington, MA |
-| 13 | Signaling Peptides as Potential Drugs for Treating Cancers | &nbsp; |
-| 14 | Signaling Peptides in Signal Transduction | &nbsp; |
-| 15 | Last Day of the Class: Oral Presentations, General Discussion of the Course, and Course Evaluations | Oral Presentations due
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+WEEK #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction of Instructor and Students and Course Overview
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Antimicrobial Peptides in Innate Immune Defense and Their Production
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Antimicrobial Peptides as Double Agents
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Folding Matters for Antimicrobial Peptides
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Techniques to Study Antimicrobial Peptides
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Peptides in Biotic Interactions
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Peptide Transporters in Various Organisms
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Peptide Signals in the Brain
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Molecules of Hunger and Love
+{{< tdclose >}}
+{{< tdopen >}}
+Written Assignment due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Epidermal Growth Factors (EGFs) as Signaling Peptides
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Molecules in Action: Antimicrobial Peptides as Drugs
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Field Trip to [Cubist Pharmaceuticals](https://en.wikipedia.org/wiki/Cubist_Pharmaceuticals), a subsidiary of [Merck Pharmaceuticals](http://www.merck.com/index.html)
+{{< tdclose >}}
+{{< tdopen >}}
+Field trip to [Cubist Pharmaceuticals](https://en.wikipedia.org/wiki/Cubist_Pharmaceuticals), Lexington, MA
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Signaling Peptides as Potential Drugs for Treating Cancers
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Signaling Peptides in Signal Transduction
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Last Day of the Class: Oral Presentations, General Discussion of the Course, and Course Evaluations
+{{< tdclose >}}
+{{< tdopen >}}
+Oral Presentations due
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
